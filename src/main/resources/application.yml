@@ -1,0 +1,6 @@
+server:
+  servlet:
+    context-path: /demo
+  port: 8081
+test:
+  name: yxl
